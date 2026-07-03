@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B03A2E&font=Merriweather&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Alex+Nogueira;I+am+from+Araçuaí,+MG.;I+study+Analysis+of+Systems+at+IFNMG;Be+Welcome!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B03A2E&font=Merriweather&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Alex+Nogueira;I+am+from+Brasil.;I+study+Analysis+of+Systems+at+IFNMG;Be+Welcome!)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexNogueira-22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
